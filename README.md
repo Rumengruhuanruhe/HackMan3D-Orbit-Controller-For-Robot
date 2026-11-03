@@ -37,7 +37,7 @@ By using this joystick, you agree to accept all risks.
 
 The complete assembly video is available on [YouTube](https://www.youtube.com/watch?v=l8wjwXb5LGA).
 
-The Robot_Joystick video is  available on https://www.bilibili.com/video/BV17Y436eEkv/?vd_source=822b8642c92347bbf5249149e72d8a58
+The Robot_Joystick video is  available on  [Bilibili](https://www.bilibili.com/video/BV17Y436eEkv/?vd_source=822b8642c92347bbf5249149e72d8a58).
 
 ## Features
 
