@@ -17,6 +17,11 @@
 
 An open-source, fully 3D-printable 6-DOF navigation controller built around an Arduino Pro Micro and four Hall-effect joysticks. Orbit provides native 3D-controller input for CAD applications and an optional mouse-emulation mode for slicers.
 
+The Robot_Joystick version added bluetooth module and battery module. The joystick is provided AS IS, for development and educational use only. No warranty, express or implied, is given for safety, stability or reliability.
+The operator shall be solely responsible for risk assessment, emergency-stop setup, safety guarding, and all operations of the robotic arm.
+The author/supplier shall not be liable for any personal injury, property damage or consequential loss arising from improper operation, communication delay, signal dropout, firmware bug, modification, or misuse of this controller.
+By using this joystick, you agree to accept all risks.
+
 ## Start here
 
 1. Download the ready-to-use package from the [latest release](https://github.com/HackMan3D/HackMan3D-Orbit-Controller/releases/latest).
@@ -28,6 +33,8 @@ An open-source, fully 3D-printable 6-DOF navigation controller built around an A
 7. Keep the controller untouched for one second after connecting it while the joysticks calibrate.
 
 The complete assembly video is available on [YouTube](https://www.youtube.com/watch?v=l8wjwXb5LGA).
+
+The Robot_Joystick video is  available on 
 
 ## Features
 
