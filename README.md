@@ -22,7 +22,7 @@ The operator shall be solely responsible for risk assessment, emergency-stop set
 The author/supplier shall not be liable for any personal injury, property damage or consequential loss arising from improper operation, communication delay, signal dropout, firmware bug, modification, or misuse of this controller.
 By using this joystick, you agree to accept all risks.
 <p align="center">
-  <img src="robot_joystick.png">
+  <img src="images/robot_joystick.png">
 </p>
 
 ## Start here
